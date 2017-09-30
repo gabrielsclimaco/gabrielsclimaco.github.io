@@ -1777,26 +1777,15 @@ body {
 .cid-qvD7ixJD4e .card {
   padding-bottom: 1.5rem;
 }
-.cid-qvDbKOM1ZV {
+.cid-qvDhvSbJGg {
   padding-top: 105px;
   padding-bottom: 105px;
   background-image: url("../../../assets/images/mbr-1-2000x1333.jpg");
 }
-.cid-qvDbKOM1ZV [class^="socicon-"]:before,
-.cid-qvDbKOM1ZV [class*=" socicon-"]:before {
-  line-height: 44px;
+.cid-qvDhvSbJGg .mbr-iconfont-social {
+  font-size: 32px;
+  color: #073b4c;
 }
-.cid-qvDbKOM1ZV .btn-social {
-  border-color: #073b4c;
-}
-.cid-qvDbKOM1ZV .btn-social:hover {
-  background: #073b4c;
-}
-.cid-qvDbKOM1ZV .btn-social:hover i.socicon {
-  color: #ffffff !important;
-}
-@media (max-width: 767px) {
-  .cid-qvDbKOM1ZV .btn {
-    font-size: 20px !important;
-  }
+.cid-qvDhvSbJGg .social-list a:focus {
+  text-decoration: none;
 }
